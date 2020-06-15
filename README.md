@@ -13,8 +13,6 @@ https://github.com/nagracks/reddit_get_top_images
 Usage for reddit parser
 -----
 
-.. code-block:: bash
-
     $ python get_top_images.py -p y
 
 
