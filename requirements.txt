@@ -6,4 +6,4 @@ requests==2.20.0
 six==1.10.0
 tqdm==4.7.6
 update-checker==0.11
-pillow==7.1.2
+pillow==8.2.0
